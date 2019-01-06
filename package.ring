@@ -614,7 +614,7 @@ aPackageInfo = [
 		"libdepwin/Apache2.2/README.txt",
 		"libdepwin/Apache2.2/ring/httpd.conf.template",
 		"libdepwin/Apache2.2/ring/prepare.bat",
-		"libdepwin/Apache2.2/ring/prepare.ring",
+		"libdepwin/Apache2.2/ring/prepare.ring"
 	],
 	:windowsfiles = 	[
 
